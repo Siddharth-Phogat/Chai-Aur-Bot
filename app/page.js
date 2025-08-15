@@ -150,7 +150,6 @@ function Message({ m, current, renderAvatar }) {
           } rounded-2xl px-5 py-4 shadow-sm`}
         >
           <ReactMarkdown
-            children={m.text}
             remarkPlugins={[remarkGfm]}
             components={{
               code({ node, inline, className, children, ...props }) {
@@ -175,7 +174,7 @@ function Message({ m, current, renderAvatar }) {
                 );
               },
             }}
-          />
+          >{m.text}</ReactMarkdown>
         </div>
         <div className={`mt-1 text-lg ${isYou ? "text-violet-300" : "text-slate-400"}`}>{m.at}</div>
       </div>
