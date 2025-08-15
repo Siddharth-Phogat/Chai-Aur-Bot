@@ -4,6 +4,16 @@
 
 ---
 
+## Screenshots
+
+### Talking to Hitesh Choudhary Sir
+<img width="1572" height="849" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/053d2cd4-f68e-4f7a-8fa8-04f9baf52b2d" />
+
+### Talking to Piyush Garg Sir
+<img width="1704" height="859" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/f8a296e9-f7ba-41b8-ab3c-c66742ea6cd2" />
+
+---
+
 ## Features
 
 - **Dual Personas**:  
@@ -94,25 +104,11 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## Screenshots
-
-### Talking to Hitesh Choudhary Sir
-<img width="1572" height="849" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/053d2cd4-f68e-4f7a-8fa8-04f9baf52b2d" />
-
-### Talking to Piyush Garg Sir
-<img width="1704" height="859" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/f8a296e9-f7ba-41b8-ab3c-c66742ea6cd2" />
-
----
-
 ## Future Enhancements
 
 * Real-time streaming responses from Gemini AI
+* Stream Response
 * Multiple additional personas
 * Dark/Light theme toggle
 * Voice input and output
 * Chat history and export
-
-```
-
-I can also make a **shorter, concise version** if you want something lightweight for GitHub. Do you want me to do that?
-```
