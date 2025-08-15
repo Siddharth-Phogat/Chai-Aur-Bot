@@ -83,7 +83,7 @@ export default function DualPersonaChat() {
           />
         </div>
         <p className="text-2xl text-center text-slate-300 mt-2">
-          Engage with Hitesh's friendly tech guidance or Piyush's high-energy coding insights
+          {"Engage with Hitesh's friendly tech guidance or Piyush's high-energy coding insights"}
         </p>
 
         {/* Heading - Persona Selection */}
